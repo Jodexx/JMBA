@@ -1,0 +1,24 @@
+#Server IP/Айпи адрес сервера
+ip: "localhost"
+#Server Port/Порт сервера
+port: 25565
+#Bot password (/login, /register)/Пароль ботов (/login, /register)
+password: "123412341234"
+#Delay between connections (in ms)/Задержка между подключениями (в мс)
+interval: 8000
+#Waiting time for a response from the server (in ms)/Время ожидания ответа от сервера (в мс)
+timeout: 5000
+#Minecraft version/Версия майнкрафта
+version: 1.12.2
+#Bot prefix/Префикс бота
+botname: "JBOT_"
+#Number of bots/Количество ботов
+botcount: 20
+#Are login commands enabled? (/register, /login)/Включены ли команды входа? (/register, /login)
+login: true
+#Is chat spam enabled?/Включён ли спам в чате?
+chatspam: true
+#Chat message delay (in ms)/Задержка сообщений в чате (в мс)
+chatspamdelay: 1000
+#Spam message/Сообщение для спама
+chatspammessage: "Hello"
