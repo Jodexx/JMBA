@@ -1,6 +1,8 @@
 # 24/7 JodexMinecraftBotAttack 1.0
 
 <img alt="Discord" src="https://img.shields.io/discord/860809265689788447?label=discord&logo=Discord"> <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/JodexIndustries/JMBA/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8GLWZE)
 <div align="center">
     <a href="https://github.com/JodexIndustries/JMBA/releases/latest"><img alt="Скачать" src="https://img.shields.io/badge/-СКАЧАТЬ_ПОСЛЕДНИЙ_РЕЛИЗ_(КЛИК)-blue?style=for-the-badge"/></a>
 </div>
