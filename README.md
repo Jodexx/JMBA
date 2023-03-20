@@ -2,6 +2,7 @@
 
 <img alt="Discord" src="https://img.shields.io/discord/860809265689788447?label=discord&logo=Discord"> [<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/JodexIndustries/JMBA/total?label=downloads">](https://img.shields.io/github/downloads/JodexIndustries/JMBA/total?label=downloads)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8GLWZE)
 <div align="center">
     <a href="https://github.com/JodexIndustries/JMBA/releases/latest"><img alt="Download" src="https://img.shields.io/badge/-DOWNLOAD_LATEST_RELEASE_(CLICK)-blue?style=for-the-badge"/></a>
 </div>
